@@ -1,6 +1,6 @@
 {
   "name": "npm-collision-test",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Collision test.",
   "main": "index.js",
   "author": "EIGHTFINITE",
