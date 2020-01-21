@@ -1,0 +1,13 @@
+{
+  "name": "npm-collision-test",
+  "version": "0.1.0",
+  "description": "Collision test.",
+  "main": "index.js",
+  "author": "EIGHTFINITE",
+  "license": "MIT-0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EIGHTFINITE/npm-collision-test.git"
+  }
+}
