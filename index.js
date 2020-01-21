@@ -1,5 +1,5 @@
 (function() {
 
-module.exports = 'Initial commit';
+module.exports = '1.0.0 branch';
 
 }());
